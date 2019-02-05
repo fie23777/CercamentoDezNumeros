@@ -1,0 +1,96 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.logo{
+    background-color: #269abc;
+    padding:10px;
+    height:200px;
+}
+
+.logoLogin{
+    background-color: #269abc;
+    padding:10px;
+    width:455px;
+    height:150px;
+    border-radius: 20px;
+}
+
+.loginSenha{
+    background-color: #228B22;
+    padding:10px;
+    width:455px;
+    height:100px;
+    border-radius: 20px; 
+    margin-left: 30%;
+  
+}
+
+.texto{
+color: white;
+height:20px;
+width:30px;
+}
+
+.msgErro{
+  margin-left: 35%;
+  color: red;
+  width:350px;
+  height:30px;
+ font-size: 20px;
+  
+}
+
+.megaTable{
+
+    border: 1px solid green;
+    padding: 5px;
+  }
+
+  .megaTR {
+    background-color: green;
+    color: white;
+
+}  
+
+.divTable{
+    margin: 250px;
+    
+}
+
+.numerosMarcados{
+     margin-left: 100px;
+     padding: 5px;
+}
+
+.Megatestearea{
+    
+    
+}
+
+.btn-fie{color:#fff;background-color:#5cb85c;border-color:#4cae4c; width: 40px }.btn-fie:hover,.btn-fie:focus,.btn-fie:active,.btn-fie.active,.open>.dropdown-toggle.btn-fie{color:#fff;background-color:#449d44;border-color:#398439}.btn-fie:active,.btn-fie.active,.open>.dropdown-toggle.btn-fie{background-image:none}.btn-fie.disabled,.btn-fie[disabled],fieldset[disabled] .btn-fie,.btn-fie.disabled:hover,.btn-fie[disabled]:hover,fieldset[disabled] .btn-fie:hover,.btn-fie.disabled:focus,.btn-fie[disabled]:focus,fieldset[disabled] .btn-fie:focus,.btn-fie.disabled:active,.btn-fie[disabled]:active,fieldset[disabled] .btn-fie:active,.btn-fie.disabled.active,.btn-fie[disabled].active,fieldset[disabled] .btn-fie.active{background-color:#5cb85c;border-color:#4cae4c}.btn-fie .badge{color:#5cb85c;background-color:#fff}
+
+
+textarea {
+    padding: 10px;
+    border: 1px solid #E5E5E5;
+    width: 200px;
+    color: #999999;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+}
+textarea {
+    width: 400px;
+    height: 150px;
+    max-width: 400px;
+    line-height: 18px;
+}
+input:hover, textarea:hover,
+input:focus, textarea:focus {
+
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 8px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 8px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 8px;     
+}

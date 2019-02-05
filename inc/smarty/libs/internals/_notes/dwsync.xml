@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="core.assemble_plugin_filepath.php" server="ftp.fie2377.16mb.com" local="130736070926573030" remote="130738120800000000" Dst="1" />
+<file name="core.assign_smarty_interface.php" server="ftp.fie2377.16mb.com" local="130736070926633076" remote="130738120800000000" Dst="1" />
+<file name="core.display_debug_console.php" server="ftp.fie2377.16mb.com" local="130736070926893244" remote="130738120800000000" Dst="1" />
+<file name="core.get_include_path.php" server="ftp.fie2377.16mb.com" local="130736070926953290" remote="130738120800000000" Dst="1" />
+<file name="core.get_microtime.php" server="ftp.fie2377.16mb.com" local="130736070927093383" remote="130738120800000000" Dst="1" />
+<file name="core.get_php_resource.php" server="ftp.fie2377.16mb.com" local="130736070927513675" remote="130738120800000000" Dst="1" />
+<file name="core.is_trusted.php" server="ftp.fie2377.16mb.com" local="130736070927653751" remote="130738120800000000" Dst="1" />
+<file name="core.load_plugins.php" server="ftp.fie2377.16mb.com" local="130736070927723803" remote="130738120800000000" Dst="1" />
+<file name="core.load_resource_plugin.php" server="ftp.fie2377.16mb.com" local="130736070927813869" remote="130738120800000000" Dst="1" />
+<file name="core.process_cached_inserts.php" server="ftp.fie2377.16mb.com" local="130736070927893911" remote="130738120800000000" Dst="1" />
+<file name="core.read_cache_file.php" server="ftp.fie2377.16mb.com" local="130736070928264722" remote="130738120800000000" Dst="1" />
+<file name="core.rmdir.php" server="ftp.fie2377.16mb.com" local="130736070928524902" remote="130738120800000000" Dst="1" />
+<file name="core.run_insert_handler.php" server="ftp.fie2377.16mb.com" local="130736070928775074" remote="130738120800000000" Dst="1" />
+<file name="core.rm_auto.php" server="ftp.fie2377.16mb.com" local="130736070928444854" remote="130738120800000000" Dst="1" />
+<file name="core.write_cache_file.php" server="ftp.fie2377.16mb.com" local="130736070928945187" remote="130738120800000000" Dst="1" />
+<file name="core.write_compiled_include.php" server="ftp.fie2377.16mb.com" local="130736070928995221" remote="130738120800000000" Dst="1" />
+<file name="core.write_file.php" server="ftp.fie2377.16mb.com" local="130736070929215539" remote="130738120800000000" Dst="1" />
+<file name="core.write_compiled_resource.php" server="ftp.fie2377.16mb.com" local="130736070929165488" remote="130738120800000000" Dst="1" />
+<file name="core.is_secure.php" server="ftp.fie2377.16mb.com" local="130736070927583704" remote="130738121400000000" Dst="1" />
+<file name="core.smarty_include_php.php" server="ftp.fie2377.16mb.com" local="130736070928845115" remote="130738121400000000" Dst="1" />
+<file name="core.create_dir_structure.php" server="ftp.fie2377.16mb.com" local="130736070926743144" remote="130738121400000000" Dst="1" />
+<file name="core.process_compiled_include.php" server="ftp.fie2377.16mb.com" local="130736070927963958" remote="130738121400000000" Dst="1" />
+</dwsync>

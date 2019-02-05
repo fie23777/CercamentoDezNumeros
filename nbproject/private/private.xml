@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/megaSena/view/home.tpl</file>
+            <file>file:/C:/xampp/htdocs/megaSena/Model/mUsuario.php</file>
+            <file>file:/C:/xampp/htdocs/megaSena/controleCadastro.php</file>
+            <file>file:/C:/xampp/htdocs/megaSena/NumeroSorte.php</file>
+            <file>file:/C:/xampp/htdocs/megaSena/CercarAleatPost.php</file>
+            <file>file:/C:/xampp/htdocs/megaSena/Connection/Connection.php</file>
+            <file>file:/C:/xampp/htdocs/megaSena/view/inicio.tpl</file>
+            <file>file:/C:/xampp/htdocs/megaSena/login.php</file>
+            <file>file:/C:/xampp/htdocs/megaSena/view/cadastro.tpl</file>
+            <file>file:/C:/xampp/htdocs/megaSena/index.php</file>
+            <file>file:/C:/xampp/htdocs/megaSena/entreEmContato.php</file>
+            <file>file:/C:/xampp/htdocs/megaSena/totalUsuario.php</file>
+            <file>file:/C:/xampp/htdocs/megaSena/controlePrinc.php</file>
+            <file>file:/C:/xampp/htdocs/megaSena/CercaAleatorio.php</file>
+            <file>file:/C:/xampp/htdocs/megaSena/Conf/Configuracao.php</file>
+            <file>file:/C:/xampp/htdocs/megaSena/DaoSQL/DaoUsuario.php</file>
+            <file>file:/C:/xampp/htdocs/megaSena/Cercar.php</file>
+        </group>
+    </open-files>
+</project-private>
